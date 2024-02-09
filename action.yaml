@@ -4,7 +4,7 @@ author: 'ariehm'
 description: 'A GitHub Action to say Hello'
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/ariehm/helloworld:v0.0.11'
+  image: 'docker://ghcr.io/ariehm/helloworld:0.0.11'
 branding:
   icon: 'aperture'
   color: 'orange'
